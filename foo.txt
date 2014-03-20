@@ -1,6 +1,7 @@
 this file
-contains many
-lines and I
+contains many 1
+aaa
+lines and I 2
 will make
 few modifications
 to have a
