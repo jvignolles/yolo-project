@@ -1,0 +1,8 @@
+this file
+contains many
+lines and I
+will make
+few modifications
+to have a
+conflcit.
+
